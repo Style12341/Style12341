@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently working on personal IoT projects with ESP32
+Currently working on personal IoT projects with ESP32 and following The Odin project Course.
 <!--
 **Style12341/Style12341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
